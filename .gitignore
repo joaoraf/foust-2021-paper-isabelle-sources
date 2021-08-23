@@ -1,0 +1,15 @@
+*~
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.blg
+*.bbl
+*.aux
+*.abs
+*.xmpi
+*.xmpdata
+*.swp
+isa/output/
+isa/*
+output/
